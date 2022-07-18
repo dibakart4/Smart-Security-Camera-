@@ -20,9 +20,9 @@ hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
 cap = cv2.VideoCapture(0)
 
-FROM = "www.speakerdibakar@gmail.com" # enter here the sender's mail
-TO = "www.speakerdibakar@gmail.com" # enter here the receiver's mail
-password = "D122412121" # enter here the sender's password
+FROM = "dibakar@gmail.com" # enter here the sender's mail
+TO = "dibakar@gmail.com" # enter here the receiver's mail
+password = "########" # enter here the sender's password
 
 SUBJECT = "Potential Threat!"
 
